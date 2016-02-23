@@ -1,0 +1,27 @@
+{
+  "name": "askozia-elasticsearch",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Elasticsearch",
+    "Kibana",
+    "Monitoring",
+    "Астериск",
+    "Asterisk",
+    "Аскозия",
+    "Askozia",
+    "nodejs"
+  ],
+  "author": "Sergey Filkin",
+  "license": "ISC",
+  "dependencies": {
+    "asterisk-manager": "^0.1.15",
+    "elasticsearch": "^10.1.3",
+    "moment": "^2.10.6"
+  }
+}
