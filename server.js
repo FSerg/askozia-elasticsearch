@@ -56,6 +56,7 @@ ami.on('cdr', function(evt) {
             console.log('Elastic error: ');
             console.log(error);
         }
+
         // console.log('Elastic response: ');
         // console.log(response);
     });
